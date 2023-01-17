@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Coder-Manan
+- 🚩 I reagularly participate in CTF events
 - 👀 I’m interested in software development, cybersecurity and literature...
 - 🌱 I’m currently pursuing Bachelor's of Technology in Computer Science...
 - 💞️ I’m looking to collaborate on open source projects...
+- 🔭 I'm learning cryptography, web3 dev and backend dev
 - 📫 How to reach me ... mail me on manantechy@gmail.com
 
 <!---
